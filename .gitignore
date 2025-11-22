@@ -1,0 +1,13 @@
+# OpenSCAD Generated Files (3D Exports)
+*.stl
+*.3mf
+*.obj
+*.amf
+
+# OpenSCAD Generated Files (2D Exports)
+*.dxf
+*.svg
+*.png
+
+# OpenSCAD Temporary/Backup Files
+*.bak
